@@ -16,7 +16,7 @@
                     <li><a class="active" href="#home">Home</a></li>
                     <li><a href="consultas">Cadastro</a></li>
                     <li><a href="#exames">Emprestar Livros</a></li>
-                    <li><a href="login.html">Login</a></li>
+                    <li><a href="login.php">Login</a></li>
                     <li><a href="#cirurgias">Sugestoes de Livros</a></li>
                     <li></li>
                 </ul>
