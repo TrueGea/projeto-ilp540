@@ -14,7 +14,7 @@
   <body class="text-center">
     <div class="Conteiner ">
         <form class="form-signin">
-            <img class="imgLogin" src="images/dancingbook1.gif">
+            <img class="imgLogin" src="dancingbook1.gif">
             <h1 class="h3 mb-3 font-weight-normal">Faça login</h1>
             <label for="inputEmail" class="sr-only">Endereço de email</label>
             <input type="email" id="inputEmail" class="form-control" placeholder="Seu email" required autofocus>
