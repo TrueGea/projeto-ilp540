@@ -5,7 +5,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
-    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="Login.css">
 
     <title>Template de login, usando Bootstrap.</title>
@@ -32,8 +32,8 @@
     <footer>
         <p> &copy; Direitos Reservados Gabriel Gea</p>
     </footer>
-    <script src="js/jquery-3.3.1.slim.min.js" ></script>
-        <script src="js/popper.min.js" ></script>
-        <script src="js/bootstrap.min.js"></script>
+    <script src="jquery-3.3.1.slim.min.js" ></script>
+        <script src="popper.min.js" ></script>
+        <script src="bootstrap.min.js"></script>
   </body>
 </html>
