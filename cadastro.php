@@ -64,10 +64,10 @@
 
 
 
-
-        <script src="js/jquery-3.3.1.slim.min.js" ></script>
-        <script src="js/popper.min.js" ></script>
-        <script src="js/bootstrap.min.js"></script>
+        <script src="script.js"></script>
+        <script src="jquery-3.3.1.slim.min.js" ></script>
+        <script src="popper.min.js" ></script>
+        <script src="bootstrap.min.js"></script>
       
 </body>
 </html>
