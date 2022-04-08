@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="cadastro.css">
-    <title>Cadastro</title>
+    <title> Cadastro</title>
 </head>
 <body>
 
@@ -60,9 +60,8 @@
 
         </form>
     </div>
-
-
-
+    
+    
         <script src="script.js"></script>
         <script src="jquery-3.3.1.slim.min.js" ></script>
         <script src="popper.min.js" ></script>
