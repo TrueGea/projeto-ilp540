@@ -50,15 +50,25 @@ div{
    .box{
        border: 1px solid red;
        margin: 100px;
-       background-color:transparent;
-   }
+    }
    .backimag{
        background-image:url("https://www.publishnews.com.br/estaticos/uploads/2020/05/tR3tcBpL1DptpIOuQOgGXulY0Oa85AZo1431XW9XaE50ugV53gbA7w1GQBk35isQWwaOu6kzClKWVuws.jpg");
        background-repeat: no-repeat;
        background-size: cover;
     }
     footer{
-        color: gold;
+        text-align: center;
+        color: black;
+    }
+    .conteiner{
+        background-color: white;
+        text-align: center;
+        margin-top: 15rem;
+        margin-left: 15rem;
+        margin-right: 15rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        border-radius: 50px;
     }
        
 
