@@ -14,22 +14,22 @@
             <nav>
                 <ul>
                     <li><a class="active" href="#home">Home</a></li>
-                    <li><a href="cadastro.php">Cadastro</a></li>
-                    <li><a href="#exames">Emprestar Livros</a></li>
-                    <li><a href="login.php">Login</a></li>
-                    <li><a href="#cirurgias">Sugestoes de Livros</a></li>
+                    <li><a href="cadastro.html">Cadastro</a></li>
+                    <li><a href="#emprelivros">Emprestar Livros</a></li>
+                    <li><a href="Login.html">Login</a></li>
+                    <li><a href="#suglivros">Sugestoes de Livros</a></li>
                     <li></li>
                 </ul>
         
             </nav>
         </header>
-        <main>
-            <div class="box">              
-                <h2 class="format">Sobre Nos!</h2>
-            </div>
-        </main>
+        <div class="conteiner box">              
+            <h2>Como Surgiu a Biblioteca?</h2>
+            <p>Segundo se sabe, a origem vem de muito antes do surgimento livro. Primeiro vieram os acervos de origem mineral(tabletes de argila), depois os famosos papiros e pergaminhos, de origem vegetal e animal. Isto até a invenção do papel no ano 105 a.C. na China.</p>
+            <p>Entre as bibliotecas mais antigas destacam-se duas: a fundada pelo rei assírio Assurbanípal no século VII em Nínive, cuja maioria do conteúdo era formado de placas de argila escritas em caracteres cuneiformes. A outra é a famosa Biblioteca Real de Alexandria que acredita-se,  data do início do século III a.C. Ela reunia a maior coleção de manuscritos do mundo antigo, cerca de 500.000 volumes, tendo sido fundada por Ptolomeu I Sóter, rei do Egito(ou no reinado de seu filho Ptolomeu II, como alguns especialistas atribuem).</p>
+        </div>
         <footer>
-            <p> &copy; Direitos Reservados Gabriel Gea</p>
+            <p> &copy; Direitos Reservados Gabriel Gea 2022</p>
         </footer>
            
         <script src="js/jquery-3.3.1.slim.min.js" ></script>
