@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="Login.css">
 
-    <title>Template de login, usando Bootstrap.</title>
+    <title>Faça seu Login</title>
   </head>
 
   <body class="text-center">
